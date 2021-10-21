@@ -204,8 +204,12 @@ public class Main {
 
     // methode to receive course code.
     public static String courseName(Scanner input) {
+        int stat = 20;
         return input.next();
-        // hi my name
+        // hi my name robert
+        // hey am trying
+
     }
+    // add your name to it
 
 }
